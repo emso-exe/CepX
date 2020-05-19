@@ -1,0 +1,23 @@
+{
+    "name": "emso-exe/cepx",
+    "description": "Biblioteca para busca on-line de endere\u0000os via CEP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Estênio Mariano",
+            "email": "dev.emso.exe@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4":{
+            "Emsoexe\\CepX\\": "src/"
+        }
+    }
+}
