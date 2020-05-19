@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-use Emsoexe\CepX\Search;
+use Emso\CepX\Search;
 
 $busca = new Search;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Emsoexe\CepX;
+namespace Emso\CepX;
 
 class Search {
 
