@@ -1,6 +1,6 @@
 {
     "name": "emso-exe/cepx",
-    "description": "Biblioteca para busca on-line de endere\u0000os via CEP.",
+    "description": "Biblioteca para busca on-line de endereços via CEP.",
     "type": "library",
     "license": "MIT",
     "authors": [
