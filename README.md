@@ -1,4 +1,4 @@
-<img src="cepx.svg" alt="" width="128" height="92"> 
+<img src="cepx.svg" alt="" width="559" height="89"> 
 
 # CepX
 
