@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cepx.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient6019">
+      <stop
+         id="stop6017"
+         offset="0"
+         style="stop-color:#007bff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47"
+     inkscape:cx="263.95874"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1-5"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(1.5275096,0,0,1.7925877,1.7985726,1.2191577)"
+       id="layer1-5"
+       inkscape:label="Camada 1"
+       style="stroke-width:0.60432118">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot841"
+         style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion843"><rect
+             id="rect845"
+             width="765.71429"
+             height="585.71429"
+             x="11.428572"
+             y="11.091114" /></flowRegion><flowPara
+           id="flowPara847"></flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.95776558px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:#000000;stroke-width:1.20864237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         x="-0.8099221"
+         y="37.230324"
+         id="text851"
+         transform="scale(1.0833119,0.92309519)"><tspan
+           sodipodi:role="line"
+           id="tspan849"
+           x="-0.8099221"
+           y="37.230324"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.59727859px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';stroke-width:1.20864237;fill-opacity:1;fill:#d4aa00;stroke:#000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"><tspan
+             style="stroke:#806600;stroke-opacity:1"
+             id="tspan893">Cep</tspan><tspan
+             style="fill:#338000;stroke:#225500;stroke-opacity:1;stroke-width:1.20864237;stroke-miterlimit:4;stroke-dasharray:none"
+             id="tspan891">X</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
