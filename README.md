@@ -2,7 +2,7 @@
 
 # CepX
 
-Biblioteca para busca (_on-line_) de endereços via CEP, efetua e consulta via API, [ViaCEP](https://viacep.com.br/) e [apiCEP](https://apicep.com/), podendo ser incluidas outras ou removidas, no mínimo uma é necessária.
+Biblioteca para busca (_on-line_) de endereços via CEP, efetua a consulta via API, [ViaCEP](https://viacep.com.br/) e [apiCEP](https://apicep.com/), podendo ser incluídas outras ou removidas, no mínimo uma é necessária.
 
 ## Install
 
