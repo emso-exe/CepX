@@ -38,6 +38,10 @@ php Example.php
 http://localhost:8000/Example.php
 ```
 
+## Example.php em execução
+
+<img src="imagem_cepx.png" alt=""> 
+
 ## Créditos
 
 - [Estênio Mariano](https://github.com/emso-exe)
