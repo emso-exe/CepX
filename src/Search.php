@@ -4,7 +4,7 @@ namespace Emso\CepX;
 
 /**
  * Classe Search
- * Classe final para definição de similaridades entre as demais classes
+ * Classe final para busca de endereços via CEP
  * @author Estênio Mariano <dev.emso.exe@gmail.com>
  * @version 1.0.0
  */
@@ -77,7 +77,7 @@ final class Search
      * Parâmetro para recebimento de CEP que será tratado no método checkZipCode. 
      * @param string $type
      * Parâmetro para recebimento do formato em que o endereço deve ser retornado.
-     * @return void
+     * @return json|xml|js
      */
     public function searchAddress(string $zipCode, string $type)
     {
