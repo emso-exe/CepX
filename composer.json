@@ -1,6 +1,6 @@
 {
     "name": "emso-exe/cepx",
-    "description": "Biblioteca para busca on-line de endereços via CEP.",
+    "description": "Biblioteca para busca on-line de endereços via CEP, efetuando a consulta via API (https://viacep.com.br/ e https://apicep.com/).",
     "type": "library",
     "license": "MIT",
     "authors": [
